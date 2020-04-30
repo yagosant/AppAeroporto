@@ -42,13 +42,13 @@ public class MainActivity extends Activity {
                    //mudando a direção da seta
                    imgSeta.setScaleX(-1f);
                    txtTexto.setText(R.string.clique_direita);
-                   Log.i("info","Botao clicado para Direita");
+                   Log.i("info","Botao clicado para Direita!");
 
                }else{
                     //mudando a direção da seta
                    imgSeta.setScaleX(1f);
                    txtTexto.setText(R.string.clique_esquerda);
-                   Log.i("info","Botao clicado para Esquerda");
+                   Log.i("info","Botao clicado para Esquerda!");
                }
                imgSeta.startAnimation(aparece);
 
