@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AppAeroporto</string>
+    <string name="app_name">Orienta ai!</string>
+    <string name="direcao">Siga a direção</string>
+    <string name="clique_aqui">Clique aqui para Continuar!</string>
+    <string name="clique_esquerda">Siga para a Esquerda</string>
+    <string name="clique_direita">Siga para Direita</string>
 </resources>
